@@ -15,3 +15,5 @@
 In the future, I will learn: JavaScript, C, C++, and C# / No futuro, aprenderei: JavaScript, C, C++ e C#.
 
 I have over one year of Python experience / Tenho mais de um ano de experiência com Python.
+
+More to add soon! / Adicionarei mais em breve!
