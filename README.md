@@ -8,10 +8,10 @@
 👍 I love anime, games, programming and other things. / Adoro anime, jogos, programação e outras coisas.
 
 🛠️ I am currently developing / Atualmente estou desenvolvendo:
-- Discord Anti-Raid and Moderation
-- Discord RPG
-- Discord Music Bot
+- Discord Anti-Raid and Moderation 🛡️
+- Discord RPG ⚔️
+- Discord Music Bot 🎵
 
-🧠 In the future, I will learn: JavaScript, C, C++, and C# / No futuro, aprenderei: JavaScript, C, C++ e C#.
+In the future, I will learn: JavaScript, C, C++, and C# / No futuro, aprenderei: JavaScript, C, C++ e C#.
 
-🐍 I have over one year of Python experience / Tenho mais de um ano de experiência com Python.
+I have over one year of Python experience / Tenho mais de um ano de experiência com Python.
